@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../.."
+	},
+	{
+		"path": "../../../../Quiz-Game"
+	},
+	{
+		"path": "../../../Team-Profile-Generator"
+	}
+],
+  "settings": {}
+}
